@@ -5,11 +5,11 @@
 ---
 ## 效果展示
 
-<figure class="third">
+<center class="half">
     <img src="https://github.com/imcort/MagicMirror-for-YCY/blob/master/images/IMG-1.jpg">
     <img src="https://github.com/imcort/MagicMirror-for-YCY/blob/master/images/IMG-2.jpg">
     <img src="https://github.com/imcort/MagicMirror-for-YCY/blob/master/images/IMG-3.jpg">
-</figure>
+</center>
 
 ## 硬件
 + 树莓派3b+（Raspbian Linux系统，支持WiFi，可以完整运行Python、Chrome等应用）
