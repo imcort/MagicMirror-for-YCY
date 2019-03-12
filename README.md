@@ -4,11 +4,13 @@
 ### 报名地址： [https://github.com/ccyyycy/ycy/issues/15](https://github.com/ccyyycy/ycy/issues/15)
 ---
 ## 效果展示
+
 <figure class="third">
     <img src="https://github.com/imcort/MagicMirror-for-YCY/blob/master/images/IMG-1.jpg">
     <img src="https://github.com/imcort/MagicMirror-for-YCY/blob/master/images/IMG-2.jpg">
     <img src="https://github.com/imcort/MagicMirror-for-YCY/blob/master/images/IMG-3.jpg">
 </figure>
+
 ## 硬件
 + 树莓派3b+（Raspbian Linux系统，支持WiFi，可以完整运行Python、Chrome等应用）
 + 10.1寸彩色高亮液晶屏幕
