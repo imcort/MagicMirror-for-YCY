@@ -4,6 +4,7 @@
 ### 报名地址： [https://github.com/ccyyycy/ycy/issues/15](https://github.com/ccyyycy/ycy/issues/15)
 ---
 ## 效果展示
+视频展示:[https://www.bilibili.com/video/av46942242](https://www.bilibili.com/video/av46942242)
 ![img](https://github.com/imcort/MagicMirror-for-YCY/blob/master/images/1.png)
 ## 硬件
 + 树莓派3b+（Raspbian Linux系统，支持WiFi，可以完整运行Python、Chrome等应用）
